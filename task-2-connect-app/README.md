@@ -101,5 +101,9 @@ something bundled in with reading.
 
 ## Screenshots
 
-`screenshots/` — the OAuth consent screen showing the permissions granted, and the summarized
-thread next to the real email for comparison. Private details are blurred.
+**`screenshots/Connectors gmail with Claude Task 2.png`** — the Claude **Connectors** settings
+panel, showing **Gmail connected ✓** and **Google Drive connected ✓** (GitHub and Google Calendar
+left unconnected — *only connect what you need*).
+
+This is the proof that the connector was live and authorized when the thread in this task was
+pulled. No email addresses, tokens, or message contents are visible in it.
