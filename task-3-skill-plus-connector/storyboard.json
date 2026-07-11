@@ -1,0 +1,36 @@
+{
+  "title": "DigiSkills 3.0 Batch-04 — from a live Gmail thread",
+  "voice": "en-US-AriaNeural",
+  "theme": { "accent": "#38bdf8" },
+  "scenes": [
+    {
+      "kind": "title",
+      "kicker": "BATCH 04 · NOW OPEN",
+      "heading": "DigiSkills 3.0",
+      "narration": "Digi Skills three point oh, Batch four, is now open for enrollment."
+    },
+    {
+      "kind": "bullets",
+      "heading": "Four New Courses",
+      "bullets": ["Cloud Computing", "A I with Python", "Shopify & Dropshipping"],
+      "narration": "Four new courses this batch, including cloud computing, and A I with Python."
+    },
+    {
+      "kind": "bullets",
+      "heading": "Three Steps",
+      "bullets": ["Register & activate", "Complete your profile", "Enroll in any two courses"],
+      "narration": "Register, complete your profile, then pick any two courses you like."
+    },
+    {
+      "kind": "stat",
+      "stat": "FREE",
+      "heading": "Funded by Ignite",
+      "narration": "It is completely free, funded by Ignite, and run by Virtual University."
+    },
+    {
+      "kind": "quote",
+      "heading": "Seats are limited. Enroll now.",
+      "narration": "Seats are limited, so log in and secure yours today."
+    }
+  ]
+}
