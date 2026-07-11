@@ -1,0 +1,36 @@
+{
+  "title": "What is a Connector?",
+  "voice": "en-US-AriaNeural",
+  "theme": { "accent": "#a78bfa" },
+  "scenes": [
+    {
+      "kind": "title",
+      "kicker": "SKILLS & CONNECTORS",
+      "heading": "What Is a Connector?",
+      "narration": "A connector gives A I hands, to reach your real apps and your data."
+    },
+    {
+      "kind": "bullets",
+      "heading": "Without One",
+      "bullets": ["You copy the data out", "You paste it back in"],
+      "narration": "Without one, you are the middleman, copying things in and out by hand."
+    },
+    {
+      "kind": "bullets",
+      "heading": "With One",
+      "bullets": ["Gmail", "Google Drive", "Slack"],
+      "narration": "With one, it reads your inbox or your drive, live, by itself."
+    },
+    {
+      "kind": "stat",
+      "stat": "READ",
+      "heading": "Grant the least you need",
+      "narration": "Grant read only first. Add write access only when you truly need it."
+    },
+    {
+      "kind": "quote",
+      "heading": "Only connect what you need.",
+      "narration": "And always check its answer against the real source."
+    }
+  ]
+}
